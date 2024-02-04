@@ -95,7 +95,6 @@ string MajorExpenses[4]
 	"Large home appliances"
 };
 
-// для внесения затрат
 
 multimap<string, double> Day;
 multimap<string, double> Week;
